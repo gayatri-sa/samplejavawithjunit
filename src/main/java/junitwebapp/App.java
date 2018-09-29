@@ -3,7 +3,7 @@ package junitwebapp;
 public class App {
 	public static void main(String[] args) {
 
-		System.out.println(getHelloWorld());
+		System.out.println(getHelloWorld2());
 
 	}
 
